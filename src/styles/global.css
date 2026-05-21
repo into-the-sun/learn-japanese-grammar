@@ -94,6 +94,20 @@ a:hover {
   margin: 2rem 0 0.75rem;
 }
 
+/* Home page sections */
+
+.lesson-section {
+  margin-bottom: 2.5rem;
+}
+
+.lesson-section-title {
+  font-size: 1.35rem;
+  margin: 0 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px dashed var(--border);
+  color: var(--accent-dark);
+}
+
 /* Cards on home page */
 
 .lesson-list {

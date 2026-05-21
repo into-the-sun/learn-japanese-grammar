@@ -37,4 +37,6 @@ src/
 
 ## Add a new lesson
 
-Open `src/data/lessons.js` and copy one of the lesson objects. Change `id`, `title`, `explanation`, `examples`, and `exercises`.
+Open `src/data/lessons.js` and copy one of the lesson objects. Set `category` to one of the keys in `sectionTitles`, then change `id`, `title`, `explanation`, `examples`, and `exercises`.
+
+Current sections: **Sentence structure**, **Particles**, **Verb conjugation**, **Noun forms & です**.
